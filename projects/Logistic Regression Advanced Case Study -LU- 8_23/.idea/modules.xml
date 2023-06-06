@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" filepath="$PROJECT_DIR$/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../machine-learning/.idea/machine-learning.iml" filepath="$PROJECT_DIR$/../../../machine-learning/.idea/machine-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../.idea/springboard-general.iml" filepath="$PROJECT_DIR$/../../.idea/springboard-general.iml" />
     </modules>
   </component>
 </project>
