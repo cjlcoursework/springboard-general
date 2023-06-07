@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11f72a00-eea5-4f76-a8d3-faf9d1fcc0e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/data/RRDinerCoffeeData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springboard-general.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springboard-general.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qo9Kf6R58wRoBc6KLkB4MUosvO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/christopherlomeli/Source/courses/datascience/Springboard/springboard-general",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f72a00-eea5-4f76-a8d3-faf9d1fcc0e2" name="Changes" comment="" />
+      <created>1686009004778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686009004778</updated>
+      <workItem from="1686009005834" duration="12836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
