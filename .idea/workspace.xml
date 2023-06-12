@@ -5,27 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f72a00-eea5-4f76-a8d3-faf9d1fcc0e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/DecisionTrees/data/RRDinerCoffeeData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/.idea/deep-learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/appearance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/core-plugins.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/hotkeys.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/.obsidian/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603140921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603140944.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603141018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603141241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603141349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603141533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603144142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603144611.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Review Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Users/christopherlomeli/Source/courses/datascience/Springboard/reinforcement-collection/coen_courses/notebooks/metaparams/DUDL_metaparams_intro2winedata.ipynb.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/metaparameters.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/DUDL_CNN_GaussClass.PLAY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/DUDL_CNN_GaussClassFeatureMaps.PLAY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/sample_data/mnist_train_small.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../machine-learning/TreeBased/RandomForest_casestudy_covid19.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../machine-learning/TreeBased/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/Profiling_NASA/meteorites.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/file_dataset" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/file_dataset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mapping.json" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mapping.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mel.mid" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mel.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mel2.mid" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mel2.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mel3.mid" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mel3.mid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/melodygenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/melodygenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/play.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/melody/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/springboard-general.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springboard-general.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/Logistic Regression Advanced Case Study -LU- 8_23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Logistic Regression Advanced Case Study -LU- 8_23/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,16 +69,18 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Qo9Kf6R58wRoBc6KLkB4MUosvO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/christopherlomeli/Source/courses/datascience/Springboard/springboard-general",
+    "last_opened_file_path": "/Users/christopherlomeli/Source/courses/datascience/Springboard/deep-learning/coen_courses/notebooks/CNN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +90,45 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN" />
+      <recent name="$PROJECT_DIR$/../machine-learning/TreeBased" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/GradientBoost" />
+      <recent name="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/sample_data" />
+      <recent name="$PROJECT_DIR$/projects/Profiling_NASA" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="guass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="deep-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.guass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,10 +138,25 @@
       <option name="presentableId" value="Default" />
       <updated>1686009004778</updated>
       <workItem from="1686009005834" duration="12836000" />
+      <workItem from="1686159218390" duration="1802000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
