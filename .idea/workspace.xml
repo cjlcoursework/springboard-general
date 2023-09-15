@@ -46,25 +46,7 @@
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/play.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/preprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/springboard-general.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springboard-general.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/career/elevator_pitch.md" beforeDir="false" afterPath="$PROJECT_DIR$/career/elevator_pitch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documents/problem-template.numbers" beforeDir="false" afterPath="$PROJECT_DIR$/documents/problem-template.numbers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/.idea/ChatGPTCopilotChannelManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/ChatGPTCopilotChannelManager.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/.idea/take_homes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/take_homes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/data/ultimate_features.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/data/ultimate_features.parquet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/generate_traffic.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/generate_traffic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/traffic_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/traffic_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_02.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.03.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
