@@ -43,14 +43,14 @@ def create_ultimate_model(input_shape,
     return model
 
 
-def train_team_week_model(model, X, y,
-                          epochs_size=200,
-                          batch_size=32,
-                          verbose=0,
-                          learning_rate=.001,
-                          validation_data=None,
-                          validation_split=0.15,
-                          loss_function='binary_crossentropy'):
+def train_the_model(model, X, y,
+                    epochs_size=200,
+                    batch_size=32,
+                    verbose=0,
+                    learning_rate=.001,
+                    validation_data=None,
+                    validation_split=0.15,
+                    loss_function='binary_crossentropy'):
     optimizer = Adam(learning_rate=learning_rate)
     model.compile(
         optimizer=optimizer,
@@ -75,20 +75,20 @@ def train_team_week_model(model, X, y,
     return result
 
 
-def execute_team_week_model(X, y,
-                            epochs_size=200,
-                            batch_size=32,
-                            verbose=0,
-                            learning_rate=.001,
-                            activation_function="relu",
-                            output_function="sigmoid",
-                            loss_function='binary_crossentropy'):
+def execute_the_model(X, y,
+                      epochs_size=200,
+                      batch_size=32,
+                      verbose=0,
+                      learning_rate=.001,
+                      activation_function="relu",
+                      output_function="sigmoid",
+                      loss_function='binary_crossentropy'):
 
     model = create_ultimate_model(X.shape[1], activation_function, output_function)
-    result = train_team_week_model(X, y,
-                                   epochs_size=epochs_size,
-                                   batch_size=batch_size,
-                                   verbose=verbose,
-                                   learning_rate=learning_rate,
-                                   loss_function=loss_function)
+    result = train_the_model(X, y,
+                             epochs_size=epochs_size,
+                             batch_size=batch_size,
+                             verbose=verbose,
+                             learning_rate=learning_rate,
+                             loss_function=loss_function)
     return model, result

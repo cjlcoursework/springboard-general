@@ -25,15 +25,18 @@
       <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603144142.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Pasted image 20230603144611.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Review Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Russ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Users/christopherlomeli/Source/courses/datascience/Springboard/deep-learning/LazyProgrammer/CNN-02-FashionMinst.ipynb.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/Users/christopherlomeli/Source/courses/datascience/Springboard/reinforcement-collection/coen_courses/notebooks/metaparams/DUDL_metaparams_intro2winedata.ipynb.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/NOTES/metaparameters.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/DUDL_CNN_GaussClass.PLAY.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/DUDL_CNN_GaussClassFeatureMaps.PLAY.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/sample_data/mnist_train_small.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-learning/coen_courses/sandbox.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../machine-learning/TreeBased/RandomForest_casestudy_covid19.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../machine-learning/TreeBased/Springboard Decision Tree Specialty Coffee Case Study - Tier 3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/Profiling_NASA/meteorites.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deep-learning/LazyProgrammer/CNN-02-FashionMinst.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/LazyProgrammer/CNN-02-FashionMinst.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/file_dataset" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/file_dataset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mapping.json" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mapping.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/mel.mid" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/mel.mid" afterDir="false" />
@@ -43,12 +46,25 @@
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/play.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/preprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/springboard-general.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springboard-general.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career/elevator_pitch.md" beforeDir="false" afterPath="$PROJECT_DIR$/career/elevator_pitch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/problem-template.numbers" beforeDir="false" afterPath="$PROJECT_DIR$/documents/problem-template.numbers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/.idea/ChatGPTCopilotChannelManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/ChatGPTCopilotChannelManager.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/.idea/take_homes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/.idea/take_homes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/data/ultimate_features.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/data/ultimate_features.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/generate_traffic.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/generate_traffic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/traffic_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/traffic_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -68,40 +85,94 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Qo9Kf6R58wRoBc6KLkB4MUosvO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/christopherlomeli/Source/courses/datascience/Springboard/deep-learning/coen_courses/notebooks/CNN",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/christopherlomeli/Source/courses/datascience/Springboard/springboard-general/take_homes/ultimate_data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/take_homes/ultimate_data" />
       <recent name="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN" />
       <recent name="$PROJECT_DIR$/../machine-learning/TreeBased" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/take_homes/ultimate_data/boneyard" />
+      <recent name="$PROJECT_DIR$/projects" />
+      <recent name="$PROJECT_DIR$/projects/Cowboys&amp;CigrettesCaseStudy" />
       <recent name="$PROJECT_DIR$/projects/GradientBoost" />
       <recent name="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/sample_data" />
-      <recent name="$PROJECT_DIR$/projects/Profiling_NASA" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.generate_traffic">
+    <configuration name="Cowboy Cigarettes Case Study - Tier 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="springboard-general" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/Cowboys&amp;CigrettesCaseStudy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/Cowboys&amp;CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_traffic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="springboard-general" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/take_homes/ultimate_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/take_homes/ultimate_data/generate_traffic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="deep-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -125,6 +197,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generate_traffic" />
+        <item itemvalue="Python.Cowboy Cigarettes Case Study - Tier 3" />
         <item itemvalue="Python.guass" />
       </list>
     </recent_temporary>
@@ -139,6 +213,7 @@
       <updated>1686009004778</updated>
       <workItem from="1686009005834" duration="12836000" />
       <workItem from="1686159218390" duration="1802000" />
+      <workItem from="1688695314636" duration="901000" />
     </task>
     <servers />
   </component>
@@ -148,6 +223,9 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -155,6 +233,16 @@
           <url>file://$PROJECT_DIR$/../deep-learning/coen_courses/notebooks/CNN/guass.py</url>
           <line>101</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/Cowboys&amp;CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/Cowboys&amp;CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
