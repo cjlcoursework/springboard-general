@@ -46,7 +46,6 @@
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/play.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/play.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/preprocess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../deep-learning/melody/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deep-learning/Audio/melody/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/take_homes/ultimate_data/ultimate_03.02.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
